@@ -1,0 +1,11 @@
+.container1 {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2017%2F03%2F16%2F215773-road-sunset.jpg&f=1&nofb=1&ipt=0706e0baf82a4bed14319e6be22e1b95e29dc9f765bbeb85427e06a4523be37c&ipo=images);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+}
+
+.content {
+  padding: 30px;
+  transform: translateY(50%);
+}
